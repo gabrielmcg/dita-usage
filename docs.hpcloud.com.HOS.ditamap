@@ -19,8 +19,12 @@
     <mapref href="HOS-keywords.ditamap" format="ditamap"/>
         
     <topicref href="helion/index.dita">
-    	<topicref href="helion/overview.dita" 
-            locktitle="yes"/>
+<!--    <topicref href="helion/overview.dita" navtitle="HPE Helion OpenStack 2.0 Overview"
+            locktitle="yes"/>   -->    
+    	<topicref href="helion/overview.dita"
+            locktitle="yes">   	    
+    	    <topicmeta><navtitle><keyword keyref="kw-hos"/> <keyword keyref="kw-hos-version"/></navtitle></topicmeta>
+    	</topicref>
     </topicref>
        
 </map>
