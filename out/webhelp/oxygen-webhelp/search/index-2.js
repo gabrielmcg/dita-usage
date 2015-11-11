@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["home"]="1*20";
 w["how"]="2*0";
 w["hp"]="2*26";
 w["hpe"]="0*82,1*110,2*60";
@@ -54,5 +55,4 @@ w["products"]="1*0";
 w["professional"]="1*0";
 w["provides"]="0*26";
 w["providing"]="2*0";
-w["public"]="0*26";
 

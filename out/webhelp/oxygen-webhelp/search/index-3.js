@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["public"]="0*26";
 w["python"]="2*0";
 w["range"]="1*0";
 w["references"]="0*0";

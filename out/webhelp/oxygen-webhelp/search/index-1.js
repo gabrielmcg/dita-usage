@@ -37,7 +37,8 @@ stopWords[32]= "of";
 var indexerLanguage="en";
 
 // Auto generated index for searching.
-w["2.0"]="1*30,2*60";
+w["2.0"]="1*30,2*0";
+w["2.0.1"]="2*59";
 w["agility"]="1*0";
 w["all"]="0*26";
 w["allow"]="2*0";
@@ -91,5 +92,4 @@ w["handful"]="2*0";
 w["handle"]="2*0";
 w["have"]="0*26,2*0";
 w["helion"]="0*82,1*84,2*60";
-w["home"]="1*20";
 
