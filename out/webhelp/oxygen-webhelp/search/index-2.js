@@ -3,7 +3,7 @@
 w["home"]="1*20";
 w["how"]="2*0";
 w["hp"]="2*26";
-w["hpe"]="0*82,1*110,2*60";
+w["hpe"]="0*82,1*110,2*80";
 w["implements"]="2*26";
 w["including"]="2*0";
 w["individual"]="2*0";
@@ -36,7 +36,7 @@ w["nodes"]="2*0";
 w["objects"]="2*0";
 w["one"]="2*0";
 w["open"]="1*27";
-w["openstack"]="1*83,2*113";
+w["openstack"]="1*83,2*133";
 w["openstack-based"]="2*26";
 w["operate"]="1*0";
 w["operating"]="2*0";
