@@ -1,0 +1,3 @@
+<plugin id="net.hpcloud.hos.term-class.html">
+  <feature extension="dita.xsl.xhtml" value="hos-term-class.xsl" type="file"/>  
+</plugin>
