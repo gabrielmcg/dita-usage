@@ -15,7 +15,7 @@
   <body>
     <!--Needs Edit-->
     <p><keyword keyref="kw-hos"/> <keyword keyref="kw-hos-version"/> is the latest OpenStack-based infrastructure-as-a-service cloud
-      platform release from HP. It is based on the OpenStack Kilo release and implements core
+      platform release from HP. It is based on the <term keyref="gl-openstack"/> Kilo release and implements core
       services and features of Kilo while providing new installation and management features.</p>
 
     <section><title>Installation, Configuration, and Management</title>

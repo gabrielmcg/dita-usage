@@ -26,5 +26,9 @@
     	    <topicmeta><navtitle><keyword keyref="kw-hos"/> <keyword keyref="kw-hos-version"/></navtitle></topicmeta>
     	</topicref>
     </topicref>
+    
+    <topichead navtitle="Glossary">
+        <mapref href="HOS-glossary.ditamap" format="ditamap"/>
+    </topichead>
        
 </map>

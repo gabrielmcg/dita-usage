@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="en" linking="none" locktitle="no">
+    <title>HP Helion OpenStack Glossary</title>
+    
+    <topichead navtitle="O">  
+        <topicref href="helion/glossary/openstack.dita" keys="gl-openstack"/>
+    </topichead>
+    
+</map>
