@@ -25,6 +25,7 @@
             locktitle="yes">   	    
     	    <topicmeta><navtitle><keyword keyref="kw-hos"/> <keyword keyref="kw-hos-version"/></navtitle></topicmeta>
     	</topicref>
+        <topicref href="helion/cli_reference.dita" toc="no"/>
     </topicref>
     
     <topichead navtitle="Glossary">

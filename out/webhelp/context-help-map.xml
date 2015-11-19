@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="topic3076" path="home.html"/>
    <appContext helpID="home" path="helion/index.html"/>
    <appContext helpID="tech_overview" path="helion/overview.html"/>
+   <appContext helpID="topic_fkz_yvr_st" path="helion/cli_reference.html"/>
    <appContext helpID="gloss-openstack" path="helion/glossary/openstack.html"/>
 </map>
