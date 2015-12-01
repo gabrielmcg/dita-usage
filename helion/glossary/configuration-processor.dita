@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="gloss-CP">
+    <glossterm>Configuration Processor</glossterm>
+    <glossdef>The Configuration Processor  parses and validates the input model and outputs the effective configuration that 
+        will be deployed to each server that makes up your cloud.
+    </glossdef>
+    <glossBody>
+        <glossSurfaceForm>Configuration Processor (CP)</glossSurfaceForm>
+        <glossAlt>
+            <glossAcronym>CP</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>

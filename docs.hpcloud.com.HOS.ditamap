@@ -23,7 +23,7 @@
             locktitle="yes"/>   -->    
     	<topicref href="helion/overview.dita"
             locktitle="yes">   	    
-    	    <topicmeta><navtitle><keyword keyref="kw-hos"/> <keyword keyref="kw-hos-version"/></navtitle></topicmeta>
+    	    <topicmeta><navtitle><keyword keyref="kw-hos"/> <keyword keyref="kw-hos-version"/> Overview</navtitle></topicmeta>
     	</topicref>
         <topicref href="helion/cli_reference.dita" toc="no" search="no"/>
     </topicref>

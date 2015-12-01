@@ -2,6 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map xml:lang="en" linking="none" locktitle="no">
     <title>HP Helion OpenStack Glossary</title>
+ 
+    <topichead navtitle="C">  
+        <topicref href="helion/glossary/configuration-processor.dita" keys="gl-cp"/>
+    </topichead>
     
     <topichead navtitle="O">  
         <topicref href="helion/glossary/openstack.dita" keys="gl-openstack"/>
